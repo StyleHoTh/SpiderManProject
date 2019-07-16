@@ -1,0 +1,17 @@
+/project/ProjectU/Saved
+/project/ProjectU/.vs
+/project/ProjectU/*.sln
+/project/ProjectU/Binaries
+/project/ProjectU/Intermediate
+/project/ProjectU/Android_ASTC
+/project/ProjectU/Build/*
+/project/ProjectU/WindowsNoEditor/**
+/project/ProjectU/Plugins/**/*.dll
+/project/ProjectU/Plugins/**/*.pdb
+/project/ProjectU/Plugins/*/Intermediate/*
+/project/ProjectU/DerivedDataCache/*
+/project/**/*.bat
+
+/project/common/excel_format/bin
+/project/common/excel_format/cmake/build
+/project/common/excel_format/cmake/src
